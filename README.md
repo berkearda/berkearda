@@ -6,13 +6,13 @@ I build LLM systems and the evaluation that shows whether they can be trusted. M
 
 ## Research
 
-- **CroissantMiner**, co-first author with Mubashara Akhtar (ETH AI Center): a benchmark of 602 ML dataset papers with a human gold standard from 22 annotators and 9,595 ratings. Across 20+ extraction systems, single-pass extraction beat four agentic architectures at 1.1× to 2.7× lower cost, with an LLM judge audited against human raters (Cohen's kappa 0.890).
+- **CroissantMiner**, co-first author with Mubashara Akhtar (ETH AI Center): a benchmark of 602 ML dataset papers with a human gold standard from 22 annotators and 9,595 ratings. Across 20+ extraction systems, single-pass extraction beat four agentic architectures at 1.1 to 2.7 times lower cost, with an LLM judge audited against human raters (Cohen's kappa 0.890).
 - **SkillEval**, first author (MSc thesis): skill-aware evaluation of 3,811 LLMs across 100 interpretable skills. Skill-conditioned routing matches the strongest single LLM at 38% of its inference cost.
 
 ## Experience
 
 - **Teaching Assistant**, ETH AI Center: supervised zero- and few-shot anomaly detection projects (WinCLIP) for industrial visual inspection
-- **Research Assistant**, AIT Lab, ETH AI Center: pose estimation, keypoint triangulation and 3D reconstruction
+- **Research Assistant**, AIT Lab (Prof. Otmar Hilliges), ETH Zurich: led the AIT side of a 3D motion capture project with EPFL, reconstructing exoskeleton pilots' movements from 10-camera video (13 participants, about 564,000 frames)
 - **Computer Vision Engineer**, STROMA: primary author of the pose estimation and action recognition package, a Blender synthetic data pipeline, and action recognition models tested in production
 
 ## Earlier work
