@@ -2,7 +2,7 @@
 
 MSc Data Science @ ETH Zurich | AI Engineer: LLM agents, evaluation and 3D perception
 
-I build LLM systems and the evaluation that shows whether they can be trusted. My MSc thesis and two first-author NeurIPS 2026 Datasets and Benchmarks submissions are about exactly that.
+I build LLM systems and the evaluation that shows whether they can be trusted. My MSc thesis and two first-author papers, both currently under review, are about exactly that.
 
 ## Research
 
